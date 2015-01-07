@@ -1,4 +1,4 @@
-PSR-4 PHP package Boilerplate
+Symfony Routing Component Example
 ==============
 
 This code is based on
